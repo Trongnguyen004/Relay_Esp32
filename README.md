@@ -23,7 +23,7 @@
 
 ### #Video
 <p align="center">
-    <img src="https://github.com/Trongnguyen004/Relay_Esp32/assets/137270832/142c6d7b-6de5-46eb-8477-697b0a143604">
+    <img src="https://github.com/Trongnguyen004/Relay_Esp32/assets/137270832/a6e5d2e0-7b71-4601-a6b4-ad4e370f64c5">
 </p>
 
 
