@@ -28,7 +28,7 @@ https://github.com/Trongnguyen004/Relay_Esp32/assets/137270832/a6e5d2e0-7b71-460
   <tr>
     <td>
       <p align="center">    
-          <img src="https://github.com/Trongnguyen004/Relay_Esp32/assets/137270832/a6e5d2e0-7b71-4601-a6b4-ad4e370f64c5">
+          <img src="https://github.com/Trongnguyen004/Relay_Esp32/assets/137270832/a6e5d2e0-7b71-4601-a6b4-ad4e370f64c5"  width="300">
       </p>
     </td>
     <td>
