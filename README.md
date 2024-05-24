@@ -18,13 +18,11 @@
 
 ### #Hình ảnh
 <p align="center">
-  <img src="https://github.com/Trongnguyen004/Relay_Esp32/assets/137270832/e3320f68-992e-49d8-8747-12b7664e7ad3" width="500">
+  <img src="https://github.com/Trongnguyen004/Relay_Esp32/assets/137270832/e3320f68-992e-49d8-8747-12b7664e7ad3" width="300">
 </p>
 
 ### #Video
-<p align="center">
-    <img src="https://github.com/Trongnguyen004/Relay_Esp32/assets/137270832/a6e5d2e0-7b71-4601-a6b4-ad4e370f64c5">
-</p>
+https://github.com/Trongnguyen004/Relay_Esp32/assets/137270832/a6e5d2e0-7b71-4601-a6b4-ad4e370f64c5
 
 
 
